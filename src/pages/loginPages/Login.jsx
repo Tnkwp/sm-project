@@ -24,6 +24,7 @@ const LoginForm = () => {
             <div className="bg-slate-800 border border-slate-400 rounded-md p-8 shadow-lg background-filter backdrop-blur-sm bg-opacity-30 relative">
                 <h1 className="text-4xl text-white fornt-black text-center mb-6">Login</h1>
                 <form action="">
+                    test
                     <div className="relative my-6">
                         <div className="w-72">
                             <input type="text" 
